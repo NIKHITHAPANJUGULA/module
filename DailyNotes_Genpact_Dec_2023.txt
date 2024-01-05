@@ -1,0 +1,3788 @@
+
+Session Recording
+-----------------
+https://tinyurl.com/52c5444w
+
+
+
+Java error
+------------
+https://www.baeldung.com/java-lang-unsupportedclassversion
+
+
+
+ReferenceLink
+---------------
+https://collabedit.com/sjgfh
+https://collabedit.com/dwrc6
+https://collabedit.com/c4vn9
+https://collabedit.com/6j3b7
+https://collabedit.com/3ehpj
+
+
+exercise
+-----------------
+https://collabedit.com/j4wvb
+
+
+
+
+
+
+Agile
+----------
+
+https://www.atlassian.com/agile/scrum/ceremonies
+https://www.guru99.com/software-testing.html
+
+
+SQL online
+------------
+https://www.programiz.com/sql/online-compiler/
+
+
+
+
+=========================================================
+
+
+
+ICICI BANK Application
+------------------------
+
+Requirement
+------------
+
+		login feature
+
+			personal
+			Corporate
+			NRI
+
+
+
+
+------------------------------------------------
+
+
+Requirement
+----------------
+
+	broken down 
+
+		child requirement
+
+
+
+
+------------------------------------------------
+
+example:
+---------
+
+
+Fund Transfer feature ---------------------Requirement ----------------- EPIC
+------------------------------------------------------------------------------
+
+
+	fund tarnsfer feature from icici bank to icici bank --------------------- child requirement ------------ UserStory	
+
+		NEFT
+		IMPS
+		RTGS
+		UPI
+
+
+	fund tarnsfer feature from icici bank to non-icici bank
+
+		NEFT
+		IMPS
+		RTGS
+		UPI
+
+
+=============================================================================================
+
+
+Exercise: Estimation
+--------------------
+
+
+Requirement:
+------------
+
+
+20 books
+---------
+
+	each book ------- 100 pages
+	each book ------- chapter
+
+
+
+	discussion:
+	------------
+
+			content ----- 80% content is images -----
+			no image ------ font size bigger -----
+
+
+
+
+estimate ?
+----------------------
+
+
+hrs
+
+
+10hr 	---- 20hrs ---------- 1
+20hrs 	---- 30hrs ---------- 2
+30hr 	---- 50hrs ---------- 3
+50hrs 	---- 80hrs ---------- 5
+80hrs   ---- 130 hrs -------- 8
+
+
+5
+3
+2
+55
+8
+
+broken down ------ work break down structure -------
+
+10 page ----- 10 min
+100 pages ---- 100 min
+break 20 min
+
+
+
+
+
+-----------------------------------------------------------------------
+Requirement
+------------
+
+
+
+NOP comm: 
+---------
+
+	login test scenario
+
+
+	https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+	admin@yourstore.com
+	password: admin
+
+
+		verify application title
+		verify application URL
+
+
+	chrome
+
+
+	2 min
+
+--------------------------------------------------------------------
+
+
+
+chrome browser ----- version 100 .......119
+edge   browser ----- 20 version
+safari browser ----- 20 version
+
+
+
+
+
+=========================================================================
+Complexity
+----------- 
+
+time, complexity, risk
+-----------------------
+
+StoryPoints
+-----------------------
+
+
+login   ------------- 	3	  
+
+
+logout  -------------   2
+
+
+addItemsToKart ------   5
+
+
+payment
+
+
+customerSupport
+
+
+
+===================================================================
+
+
+Team A   ------ Customer Support ----- KANBAN board
+---------------------------------
+
+	incedent ---- montly report feature is not working
+
+				  details from customer
+				  enviornment
+				  change in requirement
+
+
+
+	IB-01
+		incedent number
+
+		clone ----- copy 
+
+
+
+
+
+
+Team B - Development Team  -------- SCRUM board
+-------------------------------
+
+	new feature
+	bug fixes
+	change in requirement
+
+
+
+	IBBank
+
+		IB-01
+		incedent number
+
+
+
+
+
+==============================================================================
+
+
+yahoo -------
+	rajesh.singh1@gmail.com
+
+
+gmail.com
+--------------
+
+
+rajesh.singh1@gmail.com
+
+									rajesh.singh1@gmail.com
+									rajesh.singh2@gmail.com
+									rajesh.singh3@gmail.com
+									rajesh.singh4@gmail.com
+									rajesh.singh5@gmail.com
+									rajesh.singh.9@gmail.com   ------------ rajesh.singh9@gmail.com
+
+
+
+logged a issue
+-----------------
+
+	my understanding
+	-----------------
+
+
+	Rlease notes------ its feature ----------------------requirement document
+
+				raj.esh.s.i.n.g.h.9@gmail.com
+
+
+
+
+ExpectedResult: its from requirement
+ActualResult: from application
+
+Status: PASS/Fail
+
+======================================================================================
+
+
+https://learningjiragenpat.atlassian.net/browse/EC-7
+
+
+======================================================================================
+
+
+Payment Module
+--------------
+
+UPI 
+
+	feature 
+
+
+
+Re-Testing: 
+-----------	
+	UPI 
+
+		feature 
+
+
+
+Regression:
+------------
+
+	Payment module
+
+	is carried out to confirm whether a recent program or 
+	code change has not adversely affected existing features.
+
+
+
+==============================================================================================
+
+
+
+function add(int a, int b) {
+	
+
+	int result = a * b;
+
+	return a+b;
+
+
+}
+
+
+
+
+
+executing the fucntion
+--------------------------
+
+add(10,90) ----------    100
+
+
+
+
+=============================================================
+
+
+fund transfer feature 
+=====================
+
+
+	fund transfer feature from icici bank to icici bank ---- NEFT
+	fund transfer feature from icici bank to icici bank ---- UPI
+	fund transfer feature from icici bank to icici bank ---- IMPS
+	fund transfer feature from icici bank to icici bank ---- RTGS
+
+
+
+	fund transfer feature from icici bank to NON-icici bank ----- NEFT/RTGS/IPMS/UPI
+
+		acceptance criteria
+		--------------------
+
+			functional testing only
+
+
+			*** non-functional testing 
+
+
+				Performance test script
+
+
+
+-----------------------------------------------------------------------------------
+
+
+Requirement
+--------------
+
+
+	Req1
+
+			test case1
+			test case2
+			test case3
+			test case4
+
+
+	Req2
+
+			---- no test case
+
+
+
+
+
+==================================================================================
+
+
+Exercise
+--------
+
+
+RISK:
+------
+
+
+	sr. resource ------ moving ----> to some other project
+
+
+	mitigation Plan:
+	----------------
+
+		KT plan 
+		Document 
+		peer- progamming
+
+
+
+
+================================================================================
+exercise
+---------
+
+
+
+Desktop application
+-------------------
+
+example: Calculator
+
+
+
+
+cross Browser testing -------- testing an applicatio on different browser   ----  chrome/edge/safari etc....
+cross platform testing -------- testing an applicatio on different platform ------ ex: win/non-win
+
+functional
+non-functonal 
+	performance testing
+
+
+
+==================CALCULATOR application Desktop=====================
+
+cross Browser testing 
+cross platform testing 
+functional testing
+performance testing
+
+
+
+
+in-scope
+---------
+
+
+
+
+
+out-scope:
+----------
+
+	cross Browser testing 
+	performance testing
+
+
+
+
+=========================================================================
+
+
+Bug Triage
+
+The goal of the triage is to
+To define the type of resolution for each bug
+To prioritize bugs and determine a schedule for all "To Be Fixed Bugs'.
+
+
+exercise: 
+---------
+release date: 8th Dec
+
+bugs: 10
+
+
+Team: 
+
+	time contraint
+	5 bugs from above list
+
+
+
+Bug Triage meeting
+-------------------
+
+	identify the priority of bugs ----- fixes
+
+
+
+
+
+===============================================================================
+
+BUGS
+
+
+priority
+severity
+
+
+
+
+================================================================================
+
+
+exercise
+--------
+
+Bug exercise on JIRA application
+
+
+	
+
+
+
+=================================
+
+retrospective meeting
+-----------------------
+
+what went well 					what went wrong 				Action item
+
+
+
+
+
+=================================================================================
+
+
+function add(int a, int b) {
+	
+
+	int result = a * b;
+
+	return a+b;
+
+
+}
+
+
+
+
+def add( a,  b):
+	
+
+	int result = a * b
+
+	return a+b
+
+
+
+
+=====================================================================
+
+
+exercise:
+--------
+
+
+
+
+
+
+======================================================================
+today's plan: 6th Dec
+======================
+
+SQL quiz
+------------
+
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=SQL
+
+
+
+Refer the topics from:
+----------------------
+https://www.w3schools.com/sql/
+
+
+
+========================================================================
+
+https://www.programiz.com/sql/online-compiler/
+
+
+
+
+========================================================================
+
+
+Question/Query?
+---------------
+
+Recap
+---------------
+
+
+
+JIRA
+SQL anything    ----- sql injectoin (other topics)
+Java program 
+	
+
+
+-------------------------------------------------------------------------
+
+Download eclipse
+
+
+	installer
+
+		https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-12/R/eclipse-inst-jre-win64.exe
+
+	Package
+
+		https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2023-12/R/eclipse-jee-2023-12-R-win32-x86_64.zip
+
+
+
+multiple eclipse intance 
+	--- older
+	--- latest
+
+
+----------------------------------------------------------------------------------------------------------
+
+Java download
+--------------
+Java 1.8
+--------------
+
+installer
+
+https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u392-b08/openlogic-openjdk-8u392-b08-windows-x64.msi
+
+	------ next
+	------ checkbox ----- set path ----- enviornment variable
+
+	
+
+package
+
+
+	https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u392-b08/openlogic-openjdk-8u392-b08-windows-x64.zip
+
+
+	------- set envrionemnt variable manual
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Java project
+-------------
+
+package ------ collection/group of class
+
+	class
+
+		method
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+multiple browser
+--------------------
+
+chrome
+	ChromeDriverClass
+	ChromeOptionClass
+
+edge
+
+
+
+safari
+
+
+
+
+
+======================================================================================================
+
+
+Script
+--------
+
+	Selenium
+	Java
+	API
+	MobileAutomation
+	Python
+	javaScript
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+JAVA
+	installer/Package
+
+Eclipse
+	installer/Package
+
+
+-----------------------------------------------------------------------------------------------------------
+
+packages
+
+java 
+eclipse
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+method/function
+---------------
+
+
+public static
+
+
+
+start()
+stop()
+brake()
+
+
+
+calling a method
+-----------------
+
+start()
+
+
+
+==============================================================================
+
+
+read data from excel file
+read data from PDF file
+
+
+
+
+Create an object of class 
+
+
+
+
+=====================================================================
+
+variable
+----------
+
+emp_name = "Neeraj";
+
+
+=================================================================
+
+
+Calculator
+------------
+
+
+add(int a, int b) ------ results
+
+sub
+
+mul
+
+div
+
+
+
+public
+
+
+
+===========================================================================
+
+
+
+participantName
+----------------
+
+HASHMAP in JAVA
+----------------
+Key : value
+
+
+
+Admin: admin123
+guest: welcomeGuest
+test: welecomeTest
+
+
+=============================================================================
+
+
+File System
+-------------
+
+Read data from properties file
+
+
+
+
+Read data from excel file
+--------------------------
+
+
+
+
+
+============================================================================
+
+Question/Query?
+----------------
+
+
+
+
+
+
+
+http://testphp.vulnweb.com/login.php
+
+
+
+=======================================================================
+
+Java Project
+--------------
+
+
+configure java project
+-----------------------
+	manual configuration
+		update lib
+
+			remove and add new lib
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maven Project
+------------------------
+
+	configure maven project
+	------------------------
+
+
+
+		create a Maven Project
+		-------------------------
+
+			configure maven project with lib
+
+
+
+feature
+--------
+
+	execute test from command prompt   ------ integrate maven with TestNG (surefire plugin)
+
+
+
+Integrate with CI/CD tool
+--------------------------
+	execute test from command prompt ()
+
+
+
+
+
+Read data from excel file
+--------------------------
+
+workbook
+Sheet
+rows
+columns
+cells
+
+------------------------------------------------------------------
+
+JXL ----- xls
+POI ----- xls/xlsx  ------- open source  ----------- apache  ------ lot of tools/lib --- open source
+
+------------------------------------------------------------------
+
+
+
+XLS 												XLSX
+
+HSSFWorkbook										XSSFWorkbook
+HSSFSheet											XSSFSheet
+HSSFRows											XSSFRows
+
+
+
+
+========================================================================
+
+
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+
+
+Exception in thread "main" org.apache.poi.openxml4j.exceptions.OLE2NotOfficeXmlFileException: The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+	
+
+
+	at org.apache.poi.openxml4j.opc.internal.ZipHelper.verifyZipHeader(ZipHelper.java:148)
+	at org.apache.poi.openxml4j.opc.internal.ZipHelper.openZipStream(ZipHelper.java:188)
+	at org.apache.poi.openxml4j.opc.ZipPackage.<init>(ZipPackage.java:156)
+	at org.apache.poi.openxml4j.opc.OPCPackage.open(OPCPackage.java:351)
+	at org.apache.poi.ooxml.util.PackageHelper.open(PackageHelper.java:64)
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.<init>(XSSFWorkbook.java:313)
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.<init>(XSSFWorkbook.java:287)
+	at utility.ReadExcelFileExample2.main(ReadExcelFileExample2.java:17)
+
+
+========================================================================	
+admin@yourstore.com
+
+
+txtUserId = getRequestString("UserId");
+txtSQL = "SELECT * FROM Users WHERE UserId = "admin@yourstore.com;
+
+
+
+
+
+
+
+
+
+SELECT * FROM Users WHERE UserId = 105 OR 1=1;
+
+
+
+
+
+
+========================================================
+Objective Question ----- Friday/Monday (15-20 question)
+--------------------------------------------------------
+
+ManualTesting ----
+JIRA ----- Simple
+SQL ------ SQL quiz
+Progamming
+Selenium ----- 1/2
+
+
+--------------------------------------------------------
+========================================================
+
+
+Selenium ---- web App
+---------------------
+
+Selenium IDE
+
+	Record and replay
+
+
+
+
+
+exercise
+---------------------
+TestCase1: verify login and logout functionality with valid user credentials
+
+
+1.) launch chrome browser
+2.) launch app - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+3.) enter username - Admin
+4.) enter password - admin123
+5.) click on login button
+
+validation step
+----------------
+	applicationTitle
+	applicationURL
+	"Dashboard"
+
+6.) click on user dropdown
+7.) click on logout button/link
+
+
+validation step
+----------------
+	applicationTitle
+	applicationURL
+	"Login"
+	"Forgot your password?"
+
+
+===============================================================================================
+
+
+Selenium IDE ---- chrome/edge/firefox
+--------------------------------------
+
+1.) record and replay the test script
+2.) Save the project
+3.) export the script
+4.) open the project  ------ Selenium IDE ----
+
+
+===============================================================================================
+
+
+exercise
+---------
+
+---------------------
+TestCase1: verify login and logout functionality with valid user credentials
+
+
+1.) launch chrome browser
+2.) launch app - https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+3.) enter username - admin@yourstore.com  ------- ignore
+4.) enter password - admin                ------- ignore
+5.) click on checkbox
+6.) click on login button
+
+validation step
+----------------
+	applicationTitle
+	applicationURL
+	"Dashboard"
+
+6.) click on logout button/link
+
+
+validation step
+----------------
+	applicationTitle
+	applicationURL
+	
+
+
+
+
+
+==============================================================================
+Question/Query?
+----------------
+
+
+
+project = GS AND issuetype = Bug AND created >= -30d order by created DESC
+
+
+
+Maven Project
+---------------
+
+Config maven project
+	
+		add dependencies (lib)
+
+
+
+Selenium IDE
+-------------
+
+
+JUNIt
+-------------
+
+
+@Test
+
+@Before
+
+@After
+
+
+------------------------------------------------------------------------------
+
+TestNG
+---------
+
+
+
+1.) lib
+2.) POM.xml
+3.) design test script using JUNIT/TESTNG
+4.) Execute test script
+
+
+
+
+
+================================exercise===================================================
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+Selenium IDE
+
+	Record and replay
+	export script
+
+
+Eclipse
+	
+	create a class
+
+		add the exported script ----- selenium IDE
+
+
+Execute test from JUNIT and TestNG
+Thread.sleep(2000);
+
+
+========================================================================================
+
+
+package exercise;
+
+//Generated by Selenium IDE
+//import org.junit.Test;
+//import org.junit.Before;
+//import org.junit.After;
+//import static org.junit.Assert.*;
+import static org.hamcrest.CoreMatchers.is;
+import static org.hamcrest.core.IsNot.not;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.Dimension;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Alert;
+import org.openqa.selenium.Keys;
+import java.util.*;
+import java.net.MalformedURLException;
+import java.net.URL;
+
+public class GenpactExercise2 {
+	private WebDriver driver;
+	private Map<String, Object> vars;
+	JavascriptExecutor js;
+
+	@BeforeTest
+	public void setUp() {
+		driver = new ChromeDriver();
+		js = (JavascriptExecutor) driver;
+		vars = new HashMap<String, Object>();
+	}
+
+	@AfterTest
+	public void tearDown() {
+		driver.quit();
+	}
+
+	@Test
+	public void testcase1() throws Exception {
+
+		Thread.sleep(2000);
+
+		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+		driver.manage().window().setSize(new Dimension(1131, 825));
+		Thread.sleep(2000);
+		driver.findElement(By.cssSelector(".orangehrm-login-forgot-header")).click();
+		Thread.sleep(2000);
+		driver.findElement(By.cssSelector(".oxd-button--ghost")).click();
+	}
+}
+
+
+================================================================================
+
+Identification
+---------------
+
+Objective: identify element uniquely on page
+
+locator
+---------
+
+
+
+
+findElement(locator) --------- single webelement 
+findElements(locator) -------- list of webelement
+
+
+-------------------------------------------------------------------
+
+<input class="email valid" value="admin@yourstore.com" autofocus="autofocus" type="email" data-val="true" data-val-email="Wrong email" data-val-required="Please enter your email" id="Email" name="Email" aria-describedby="Email-error" aria-invalid="false">
+
+
+
+tagname: input
+attribute:
+text: 
+
+
+
+Locators - 8
+-------------
+
+
+name
+className
+id
+tagname
+
+
+linkText
+partialLinkText
+
+	condition   ----- both the condition
+		tagname ---- a
+		text ----- text should present ------- Logout
+
+
+CSS Selector
+XPATH
+
+
+
+
+
+
+<input class="oxd-input oxd-input--active" name="username" placeholder="Username" autofocus="" data-v-1f99f73c="">
+
+
+
+
+<label class="oxd-label" data-v-30ff22b1="" data-v-957b4417="">Username</label>
+
+
+<h1>Dashboard</h1>
+
+
+===========================================================================
+
+
+Question/Query?
+----------------
+
+
+Recap
+================
+
+Locators--- 8 
+
+	tagname
+	name
+	id
+	className
+
+	linktext
+	partialLinkText
+
+	xpath
+	css selector
+
+
+
+
+
+<input class="email valid" value="admin@yourstore.com" autofocus="autofocus" type="email" data-val="true" data-val-email="Wrong email" data-val-required="Please enter your email" id="Email" name="Email" aria-describedby="Email-error" aria-invalid="false">
+
+
+
+tagname: input
+attribute:
+text: 
+
+
+XPATH
+--------
+
+absolute    ----- /
+	example
+
+		/html/body
+
+		/html/body/div[6]/div/div/div/div/div[2]/div[1]/div/form/div[2]/div[3]/input
+
+
+relative    ----- //
+		
+		//body
+
+		//input
+
+
+
+
+generic xpath ------ multiple xpath
+-------------------------------------
+
+<input type="checkbox" data-val="true" data-val-required="The Remember me? field is required." id="RememberMe" name="RememberMe" value="true">
+
+
+//tagname[@att='value']    or    //tagname[@att="value"]     or   //tagname     or   //*[@att='value']
+
+
+
+//input[@type="checkbox"]
+//input[@name="RememberMe"]
+//input[@id="RememberMe"]
+//input[@data-val-required='The Remember me? field is required.']
+//*[@id="RememberMe"]
+
+
+
+
+
+
+<h1>Dashboard</h1>
+
+
+//tagname[text()='Dashboard']
+<h1>
+Dashboard
+</h1>
+
+
+
+
+<h1>Welcome Amit</h1>
+<h1>Welcome Abhishek</h1>
+<h1>Welcome Rajesh</h1>
+
+
+
+dynamic element
+------------------
+
+
+//tagname[ contains(        @att,'value'    )]
+
+
+
+id
+
+123123edit123123
+34234edit234234
+342034809edit234092
+
+
+
+//tagname[contains(@att,'value')]
+//input[contains(@id,'edit')]
+
+
+
+//tagname[contains(text(),'value')]
+
+
+
+
+generic css Selector ------ multiple css selector
+-------------------------------------------------
+
+
+tagname[att='value']    or    tagname[att="value"]     or   tagname     or   [att='value']
+
+
+
+
+=======================================================================
+//h1[normalize-space(text()='Dashboard')]
+
+linktext
+
+
+	a
+	text
+
+
+partialLink
+	a
+	text ----contains
+
+
+
+	//a[text()='Logout']
+
+
+	//tagname[contains(text(),'value')]
+
+
+
+
+=========================exercise - amazon search=================================
+
+Amazon Serach feature
+---------------------
+
+1.) launch app on chrome browser
+2.) enter serach item "iphone 15 pro"
+3.) click on search button
+4.) veify application title should contains "iphone 15 pro"
+5.) close the application
+
+
+
+
+validation
+------------
+
+	element attribute value
+	element text
+applicationTitle
+applicationURL
+
+
+=====================================================================================
+
+inputbox
+checkbox
+button
+dropdown/listbox
+	singlevalue/multiple value
+
+radiobutton
+
+
+======================================================================================
+
+
+Javascript 
+
+	execute javascript using Selenium
+
+
+--------------------------------------------------------------------------------------
+
+
+alert
+	----- driver.switchTo().alert()
+
+
+
+
+frame example
+handle sync issue ------- sync issue
+windows
+javascript
+Model
+
+XPATH and CSS selector
+Actions
+
+
+
+//tagname[contains(text(),'value')]
+//img[contains(@src,"logo")]
+
+
+browser Navigation
+navigate
+Action
+Implicit vs explicit waits
+ParallelTest
+Dataprovider
+
+
+
+==========================================================
+
+//tagname[contains(@att,'value')]
+
+
+
+CSS Selector shortcuts
+----------------------
+
+id    					#
+className				.
+
+contains				*
+starts-With				^
+ends-with 				$
+
+
+
+
+
+=========================================================
+
+
+XPATH
+CSS
+
+
+driver.findElement(By.cssSelector("input.email")).sendKeys("anything");
+
+
+
+
+==================================================================
+
+testNG feature
+---------------
+
+
+CrossBrowserTesting
+Execute test from testNG.xml
+Parallelexecution
+
+
+
+
+=================================================================
+
+
+dataprovider : data driven testing
+-----------------------------------
+
+Dataprovider
+Actions
+Windows
+
+
+TestNG ---- annotation
+Headless execution
+PageObjectModel
+PageFactoryConcept
+Using Maven plugin   ---- surefire plugin -----maven goals
+	execute test from command prompt ------------ CI/CD tool integration
+
+
+
+
+Execute Automated Test from command Prompt
+-------------------------------------------
+
+
+pre-requisite:
+---------------
+	download and configure maven
+	https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip
+
+
+	extract and configure into envrionment Variable
+
+
+	using maven goals execute test from CMD
+	-----------------------------------------
+
+	dragAndDrop(WebElement source, WebElement target)
+
+		clickAndHold(source);
+		moveToElement(target);
+		release();
+
+
+	login(String email, String pass){
+
+		enterEmail(email)
+		enterPass(pass)
+		clickLoginButton()
+
+	}
+
+
+
+
+
+
+------------------------------------------------------------------
+
+
+
+
+
+BeforeSuite
+
+
+BeforeTest
+
+BeforeClass
+
+
+
+BeforeMethod
+
+
+	login
+
+AfterMethod
+
+
+Beforemethod
+	
+	addItem
+
+AfterMethod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//headless mode
+		
+		ChromeOptions option = new ChromeOptions();
+		option.addArguments("--headless");
+
+
+
+
+
+===================================Cucumber========================================================
+
+<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>3.0.0-M1</version>
+				<configuration>
+					<suiteXmlFiles>
+						<!-- <suiteXmlFile>src/test/resources/Runner.xml</suiteXmlFile> -->
+					</suiteXmlFiles>
+				</configuration>
+			</plugin>
+
+
+
+		</plugins>
+	</build>
+
+
+
+	<dependencies>
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-java</artifactId>
+			<version>6.1.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-testng</artifactId>
+			<version>6.1.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>3.141.59</version>
+		</dependency>
+		<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>5.3.0</version>
+		</dependency>
+		
+		<dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+		
+		
+	</dependencies>
+  
+
+
+
+==============================================================================
+
+Feature: Login 
+
+
+Scenario: Successful Login with Valid Credentials 
+	Given User Launch Chrome browser
+	When User opens URL "http://admin-demo.nopcommerce.com/login" 
+	And User enters Email as "admin@yourstore.com" and Password as "admin" 
+	And Click on Login 
+	Then Page Title should be "Dashboard / nopCommerce administration" 
+	When User click on Log out link 
+	Then Page Title should be "Your store. Login" 
+	And close browser 
+
+
+
+===============================Cucumber=============================================
+
+
+maven project
+---------------
+	config lib
+
+
+	TestSceanrio
+		------ plain english
+		------ generate a template for automation team
+
+	AutomatedTestCase
+		----- design the automated test
+		----- methods
+
+
+
+
+
+
+===========================================================================
+
+Selenium 3
+-----------
+
+
+	launching a chromebrowser
+	System.setProperty("webdriver.chrome.driver","chromedriverpath.exe");
+
+
+	driver  ----- browser ----- sync(compatibility issue)
+
+	chromebrowser
+		120
+	chromedriver
+		119
+
+	exception: session is not created
+
+
+
+
+
+
+---------------------------------------------------------------------------
+WebDriverManager ------- before 5.0------ create()
+-----------------
+
+	chromebrowser------ auto download driver
+
+	WebDrivermanager.chrome().setup();
+	driver = new ChromeDriver();
+	
+
+
+===========================================================================
+
+WebDriverManager ------ Create "SeleniumManager" ----- 4.6.0
+
+
+	driver = new ChromeDriver();
+
+
+
+============================================================================
+
+
+Jenkins
+----------
+
+
+download and install
+
+latest stable version: 2.426.2
+-------------------------------
+
+
+1.) Installer
+	https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable
+
+
+	services.msc
+		jenkins
+
+		start and stop jenkins
+
+	Platform dependent
+
+
+2.) generic war file
+	https://get.jenkins.io/war-stable/2.426.2/jenkins.war
+
+
+
+	**** platform independent
+	**** from cmd - start/stop
+
+
+	execute jar/war file
+	--------------------
+			java -jar filename.jar/war      ------ default port: 8080
+
+			java -jar filename.jar/war --httpPort=9191     
+
+
+	verify port information
+	------------------------
+
+		netstat -a 
+
+
+
+
+access application
+---------------------
+
+==================================================================
+
+
+Question/Query?
+---------------
+
+Jenkins
+---------------
+
+
+
+Maven plugin application
+------------------------
+
+	
+
+
+Jenkins
+------------------------
+Build Trigger ----- plugins
+========================
+1.) Manually
+
+	Build now button
+
+
+2.) Schedular
+
+	10:00PM 
+
+		daily
+		weekly
+		monthly
+		sprint end date ---- cron job
+
+
+
+3.) trigger test from remote
+
+
+
+Use the following URL to trigger build remotely: JENKINS_URL/job/genpact_seleniumTest/build?token=TOKEN_NAME or /buildWithParameters?token=TOKEN_NAME
+Optionally append &cause=Cause+Text to provide text that will be included in the recorded build cause.
+
+
+
+example:
+------------
+JENKINS_URL/job/genpact_seleniumTest/build?token=TOKEN_NAME
+
+
+
+http://localhost:9191/job/genpact_seleniumTest/build?token=learning
+
+
+
+
+learning
+
+
+
+
+4.) Integration with versioning Control system
+	
+	git command ----- 
+	git integration with Jenkins
+
+
+	gitHUB account
+
+
+
+	trigger
+
+		POLL SCM
+
+			cron job pattern
+
+================================================================================
+
+
+
+
+
+https://www.google.com/
+
+
+http://www.google.com/
+https://www.google.com/
+
+
+
+
+
+===================================================================
+
+
+Question/Query?
+----------------
+
+Jenkins
+----------------
+
+	git command ----- 
+	git integration with Jenkins
+
+
+	gitHUB account
+
+
+
+--------------------------------------------------------------------
+
+
+
+setup versioning control system
+----------------------------------
+
+git
+----
+
+1.) download and install git
+
+	https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
+
+
+2.) Download gitHUB desktop
+
+	https://desktop.github.com/
+
+
+3.) Create a gitHUB account
+
+
+
+git commands
+-------------
+
+git init
+git status
+git log
+git add .
+
+	(use "git add <file>..." to include in what will be committed)
+
+
+
+git branch "genpact_automation"
+git branch -b "genpact_automation"
+
+
+
+
+
+========================================================
+
+
+API Concept
+-------------
+
+
+example:
+	git hub api testing
+
+
+
+
+
+
+=============================================================
+
+exercise: Jenkins and Git Integration
+-----------
+git Setup
+gitHUB account
+gitHUB desktop
+
+
+
+1.) Create a gitHUB reporsitory "exerciseJenkins"
+2.) using "GitHUB desktop" application ---- clone the code
+3.) add single/complete code file to local repo ---- using Git commit---git publish/push
+4.) verify code reached to gitHUB server ---- "exerciseJenkins"
+5.) Create a job on Jenkins
+6.) configure Jenkins job ---- SCM ---- add gitHUB "repo url" and "branch name"
+7.) add build step
+
+
+Triggers
+---------
+1.) build now
+2.) scheduler
+3.) remotly
+4.) Poll SCM --- cron job (* * * * *)
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Exercise: Selenium + + Maven + Git + Jenkins
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+Selenium test case
+-------------------
+
+*****optional*****
+-------------------
+Design using Page Object Model
+--------------------------------
+
+
+1.) TC: verify login feature
+
+	validation: application URL should contains "dashboard"
+	login and logout
+
+
+
+	assert.assertEquals(actual, expected)
+
+	assert.assertTrue(true)
+	assert.assertTrue(actualURL.contains(dashboard))
+	assert.assertFalse(actualURL.contains(login))
+
+
+2.) TC: verify "Forgot your password?" working
+
+	validation: application URL should contains "requestPasswordResetCode"
+
+
+
+Maven Project ---- exercise
+----------------------------
+
+	configure lib
+
+
+
+Execute test from TestNG.xml
+Execute test from POM.xml
+Execute test from command prompt
+
+
+3.) Checkin- Code to gitHUB account 
+
+4.) Create a Jenkin Project and integrate with GitHUB repo
+
+5.) Check-in code to repo ----- automatically test executed
+
+	build trigger
+	-------------
+		Poll SCM
+			cron JOB
+
+
+
+GitHUB url: selenium_jekins_exercise
+
+
+
+
+
+6.) ==========================Maven Project==========================
+
+Create a Maven Project
+
+configure tools
+	Maven Path
+
+
+
+======================================================================================
+
+java -jar selenium-server-4.16.1.jar standalone --port 4446
+
+
+
+=======================================================================================
+
+Question/Query?
+---------------
+
+
+
+API Testing
+---------------
+
+application programming interface
+----------------------------------
+An application programming interface (API) is a way for two or more computer programs to communicate with each other. It is a type of software interface, offering a service to other pieces of software.
+
+
+tools
+------
+	to test API
+	------------
+
+
+	*postman
+	*soapui/readyAPI
+	*cypress/playwright
+	*lib ---- test api
+	*restAssured ----lib ----testAPI
+
+
+=========================================================
+
+
+
+SOAP
+REST
+
+
+webservices
+API
+
+is all webservice are an API?
+is all API are a webserives?
+
+---------------------------------------------------------
+
+REST API
+----------
+----------
+
+
+GET --------- fetch from server --------- select in DB
+
+	example:
+
+		amazon account
+		---------------
+			fetch your register mobile number and address
+
+
+
+POST -------- create a resource on server ----- insert in DB
+
+	example:
+		amazon account
+		--------------
+			create a amazon prime account
+
+
+PUT  -------- update a resource on server ------ update in DB
+
+	example:
+		amazon account
+		---------------
+			change/update phone number or address
+
+PATCH
+
+
+DELETE --------- delete a resource on server ------- Delete in DB
+
+	example
+		amazon account
+		----------------
+			delete a amazon prime account
+
+		
+
+
+===========================================================================================
+
+
+Sample API
+GITHUB
+SeleniumAPI
+GoogleAPI/AMAZON/Twitter
+
+
+
+Document
+---------
+
+---------------------------------------------------------
+exercise -------- GET/POST/PUT/Delete
+----------
+
+api details --- consumer
+-------------------------
+list user
+
+	https://reqres.in/api/users?page=2
+	method: GET
+
+
+
+https://reqres.in/api/users?page=2
+
+protocol: http/https
+serverName/DomainName/Ip: reqres.in
+endPoint: /api/users
+paramter:
+	page=2
+
+
+
+-----------validation step------------------
+
+statusCode: 200
+sampleResponse:
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================================
+
+
+Test API
+----------
+
+1xx informational response – the request was received, continuing process
+2xx successful – the request was successfully received, understood, and accepted
+3xx redirection – further action needs to be taken in order to complete the request
+4xx client error – the request contains bad syntax or cannot be fulfilled
+5xx server error – the server failed to fulfil an apparently valid request
+
+
+
+
+=======================================================================
+
+https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=c76e6d1f2e6af75573c66176b1ad5627
+
+
+protocol: 
+serverName/DomainName/Ip: 
+endPoint: 
+paramter:
+	q=delhi
+	appid=c76e6d1f2e6af75573c66176b1ad5627
+
+
+
+
+
+
+===========================================================
+
+exercise
+---------
+
+https://reqres.in/api/users
+Method: POST
+
+
+
+
+validation Step
+---------------
+
+statusCode: 201
+responseBody:
+
+
+	{
+    "name": "morpheus",
+    "job": "leader",
+    "id": "779",
+    "createdAt": "2023-12-28T06:59:14.417Z"
+	}
+
+
+=============================https://collabedit.com/3ehpj============================
+
+
+download postman
+-----------------
+
+https://dl.pstmn.io/download/latest/win64
+
+
+
+exercise:
+----------
+
+
+1.) create a workspace
+
+2.) create a collection
+
+	"create collection" button
+
+
+3.) Create a Request
+    https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=c76e6d1f2e6af75573c66176b1ad5627
+    http://universities.hipolabs.com/search?country=India
+    
+Save and execute collection ----- statusCode: 200    
+test API with GET method
+	
+
+======================================================================================================
+
+exercise:
+----------
+
+
+1.) create a workspace
+
+2.) create a collection
+
+	"create collection" button
+
+
+3.) Create a Request
+    http://universities.hipolabs.com/search?country=India
+    
+Save and execute collection ----- statusCode: 200    
+test API with GET method
+	
+
+======================================================================================================
+
+
+exercise:
+----------
+
+URL: https://reqres.in/api/users?page=2
+Method: GET
+
+
+
+body:
+Header:
+
+
+
+sampleResponse
+---------------
+
+Validation Step:
+------------------
+
+1.) Status Code : 200
+2.) ResponseBody: contain ----- "byron.fields@reqres.in"
+3.) Response Body using JSON path--- specific----- "byron.fields@reqres.in" (JSON path)
+4.) ResponseTime should be less than 2000msec (Non functonal requirement, NFR)
+5.) Header "Content-Type" ---- should get results in JSON/XML format
+
+
+
+MIME type
+----------
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
+
+
+
+
+==================================================================================================
+
+
+// console.log("test execution started.....")
+
+// pm.test('TC:verify status code', function(){
+
+//  console.log("verify status code execution started.....")
+//  let x = pm.response.status
+//  let respTime = pm.response.responseTime
+//     console.log("pm.response.status: " + x + " : "+ respTime + " msec")
+// })
+
+
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(201);
+});
+
+
+==================================================================================================
+
+
+
+======================================================================================================
+
+
+exercise:
+----------
+
+URL: http://universities.hipolabs.com/search?country=India
+Method: GET
+
+
+
+body:
+Header:
+
+
+
+sampleResponse
+---------------
+
+Validation Step:
+------------------
+
+1.) Status Code : 200
+2.) ResponseBody: contain ----- ""
+3.) Response Body using JSON path--- specific----- "" (JSON path)
+4.) ResponseTime should be less than 2000msec (Non functonal requirement, NFR)
+5.) Header "Content-Type" ---- should get results in JSON/XML format
+
+
+
+MIME type
+----------
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
+
+
+
+
+==================================================================================================
+
+exercise
+----------
+
+URL: https://reqres.in/api/users
+Method: POST
+
+
+payload/body:
+-------------
+
+{
+    "name": "Sanjeev",
+    "job": "sr.leader"
+}
+
+
+header info
+------------
+content-type: JSON
+
+
+Auth-token:
+-----------
+
+
+
+----------response---------------
+
+StatusCode: 201
+
+
+
+sampleResponse:
+---------------
+
+{
+    "name": "Sanjeev",
+    "job": "sr.leader",
+    "id": "630",
+    "createdAt": "2023-12-28T11:18:05.574Z"
+}
+
+
+
+
+
+Validation Step:
+------------------
+
+1.) Status Code : 201
+2.) ResponseBody: contain ----- ""
+3.) Response Body using JSON path--- specific----- "" (JSON path)
+4.) ResponseTime should be less than 2000msec (Non functonal requirement, NFR)
+5.) Header "Content-Type" ---- should get results in JSON/XML format
+
+
+
+
+
+
+============================================================================
+
+exercise
+----------
+
+
+gitHUB API
+-----------
+List organization repositories
+
+https://api.github.com/orgs/tcs/repos
+
+
+
+
+============================================================================
+https://reqres.in/
+
+API
+-----
+
+GET
+POST
+PUT
+PATCH
+Delete
+
+
+
+
+Validation Step:
+------------------
+
+1.) Status Code : 201
+2.) ResponseBody: contain ----- ""
+3.) Response Body using JSON path--- specific----- "" (JSON path)
+4.) ResponseTime should be less than 2000msec (Non functonal requirement, NFR)
+5.) Header "Content-Type" ---- should get results in JSON/XML format
+
+
+
+
+
+---------------------------------------------------------------------------
+
+pm.test("TC1: verify Status Code", ()=> {
+    pm.response.to.have.status(200);
+});
+
+pm.test("TC2: verify value into response", function () {
+    
+    pm.expect(pm.response.text()).to.include("michael.lawson@reqres.in");
+    pm.expect(pm.response.text()).to.include("lindsay.ferguson@reqres.in");
+    pm.expect(pm.response.text()).to.include("tobias.funke@reqres.in");
+});
+
+pm.test("TC3: verify value at specific node", function () {
+    var x = pm.response.json();
+
+    pm.expect(x.page).to.eql(2);
+    pm.expect(x.data[5].email).to.eql("rachel.howell@reqres.in");
+
+});
+
+pm.test("TC4: verify response header should return Content-Type", function () {
+    pm.response.to.have.header("Content-Type");
+});
+
+
+pm.test("TC5: NFR - responseTime should be less than 2000 msec", function () {
+    pm.expect(pm.response.responseTime).to.be.below(2000);
+});
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+Amazon
+-------
+
+name      ---- sanjeev
+address   ---- delhi
+phone     ---- 9998889988
+email     ---- sanjeev@gmail.com
+
+
+
+
+PUT
+----
+	name      ---- sanjeev
+	address   ---- delhi
+		phone     ---- 9998889999
+	email     ---- sanjeev@gmail.com
+
+
+
+
+PATCH
+------
+	phone     ---- 9998889999
+	
+
+
+
+-----------------------------------------------------------
+
+
+{
+    "job": "training delivery head",
+    "updatedAt": "2023-12-29T04:43:40.220Z"
+}
+
+
+
+
+
+================================================================================
+GitHUB API Example
+============================================================================
+
+variable in postman
+---------------------
+
+	access variable in postman
+
+		{{variableName}}
+		{{gitHUB_token_neeraj}}
+
+
+
+
+
+API
+-----
+
+GET
+
+	List public repositories
+		https://api.github.com/repositories
+
+	List repositories for the authenticated user
+		https://api.github.com/user/repos
+
+		authToken
+			classic token
+
+
+		Status: 200
+
+POST
+
+	Create a repository for the authenticated user
+
+		https://api.github.com/user/repos
+
+		oAuth2.0
+			token
+
+		Status: 201
+
+
+PATCH
+		Update a repository
+			https://api.github.com/repos/OWNER/REPO
+
+			Status: 200
+
+
+Delete
+
+		Delete a repository
+			https://api.github.com/repos/OWNER/REPO
+
+
+			Status: 204
+
+
+
+			https://api.github.com/repos/neerajrangu/GitHUBRepoLearning_29DecTemp
+
+
+
+
+
+Validation Step:
+------------------
+
+1.) Status Code : 200
+2.) ResponseBody: contain ----- ""
+3.) Response Body using JSON path--- specific----- "" (JSON path)
+4.) ResponseTime should be less than 2000msec (Non functonal requirement, NFR)
+5.) Header "Content-Type" ---- should get results in JSON/XML format
+
+
+
+---------------------------------------------------------------------------
+
+
+{
+	
+
+	"name" : "GitHUBRepoLearning_29Dec"
+
+
+}
+
+
+
+=============================================================================
+
+Selenium API document: https://www.selenium.dev/documentation/legacy/json_wire_protocol/
+
+
+driver.get("https://the-internet.herokuapp.com/login");  --------- launch an app on browser session
+
+REST API
+--------
+
+	API
+	endPoint
+
+		body
+
+	method
+		GET/POST/PUT/DELETE
+
+
+
+
+POST
+------
+	serverDetails: 	http://localhost:4444/wd/hub/static/resource/hub.html
+	
+	/session/:sessionId/url
+
+
+	a9e6f69a442017f73c99f9515ae5faff
+
+
+	http://localhost:4444/wd/hub/session/a9e6f69a442017f73c99f9515ae5faff/url
+
+
+
+
+
+driver.getTitle();
+
+
+
+
+
+driver.get("https://www.amazon.in/");
+
+	post
+
+	body
+
+	{
+
+	"url"
+	}
+
+
+
+
+
+driver.getCurrentURL();
+
+	GET method
+	-----------
+
+
+
+
+driver.navigate().back()	----- POST
+
+driver.navigate().forward() ----- POST
+ 
+driver.navigate().refresh() ----- POST
+
+
+
+driver.getTitle() -------- fetch the application title ----- GET ----- Select 
+
+	get/post/put/delete ?
+
+
+
+
+
+================================================================================
+
+
+
+====================================================================
+
+Integrate Postman API with Jenkins
+------------------------------------
+
+
+1.) execute postman collection from command Prompt ------ using newman
+
+
+install newman application
+---------------------------
+
+	npm install -g newman
+
+
+verify newman installed
+------------------------
+
+	CMD ----> newman --version
+
+
+
+newman run collectionFileName
+
+
+
+export
+---------
+
+
+
+
+Share
+---------
+
+newman run https://api.postman.com/collections/7629404-dfbb5000-0bfe-4404-a856-a86af03e93a9?access_key=PMAT-01HJTF6MNWKHQXA2S24YZZMH1W
+
+
+
+
+
+
+========================playwright=======================================================
+
+
+================================playwright first test=================================================
+
+
+
+
+const {test, expect} = require('@playwright/test')
+
+
+test('verify application title', async ({page})=>{
+
+    await page.goto('https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F')
+
+    await expect(page).toHaveTitle("Your store. Login");
+
+})
+
+
+
+=================================================================================================
+
+
+
+
+Playwright
+-----------
+
+https://playwright.dev/
+
+
+Setup Playwright
+--------------------
+
+npm init playwright@latest
+
+
+
+execute sample test case
+------------------------
+
+    npx playwright test
+
+
+default execution 
+    on browser: chromium,firefox,webkit 
+    running into headless
+    running in parallel
+
+
+Results:
+
+    report generated: test results
+
+----------------------
+
+
+execute all test
+-----------------
+
+npx playwright test
+
+
+
+execute specific test 
+----------------------
+
+npx playwright test .\tests\nopComm.spec.js
+
+
+
+
+execute test on headed mode
+----------------------------
+
+npx playwright test .\tests\nopComm.spec.js --headed
+npx playwright test .\tests\recap.spec.js --headed
+
+
+execute test on specific browser
+--------------------------------
+
+npx playwright test .\tests\recap.spec.js --headed --project chromium
+
+npx playwright test .\tests\recap.spec.js --headed --project chromium
+
+
+
+====================================================================
+
+
+Inside that directory, you can run several commands:
+
+  npx playwright test
+    Runs the end-to-end tests.
+
+  npx playwright test --ui
+    Starts the interactive UI mode.
+
+  npx playwright test --project=chromium
+    Runs the tests only on Desktop Chrome.
+
+  npx playwright test example
+    Runs the tests in a specific file.
+
+  npx playwright test --debug
+    Runs the tests in debug mode.
+
+  npx playwright codegen
+    Auto generate tests with Codegen.
+
+We suggest that you begin by typing:
+
+    npx playwright test
+
+
+
+
+
+
+=================================================================
+
+npx playwright test -g "inputbox" --headed --project chromium
+=================================================================
+=================================================================
+
+npx playwright test 03InputboxLoginButtonLabel.spec.js --headed --project chromium
+npx playwright test 03InputboxLoginButtonLabel.spec.js --headed --project firefox
+npx playwright test 03InputboxLoginButtonLabel.spec.js --headed --project webkit
+=================================================================
+=================================================================
+
+
+Playwright
+----------
+
+
+1.) Setup
+2.) CrossBrowser Testing 
+
+		----chromium, firefox,webkit
+3.) Parallel execution
+4.) Headless and headed mode (execution)
+5.) Execute test from command prompt  ------ cli
+	
+	npx playwright test -g "test case description"
+
+6.) launch an application ---- goto
+7.) perform action on following elements
+
+	Inputbox
+		fill
+		click
+		toBeVisible
+	Button
+		click
+		toBeVisible
+	FlashMessage
+		toBeVisible
+		toContainText
+
+
+
+
+Checkbox
+---------
+	toHaveAttribute
+	toBeChecked
+---------------------------------------------
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
+test('checkbox example', async ({ page }) => {
+  await page.goto('https://the-internet.herokuapp.com/checkboxes');
+
+  
+  //Assert checkboxes is visible on page
+  await expect(page.locator('#checkboxes')).toBeVisible()
+
+
+  //Assert checkbox 1 is unchecked on page
+  //await expect(page.isChecked('')
+  //locator ----- css and xpath
+
+  expect(await page.isChecked('input[type="checkbox"]:nth-child(1)')).toBeFalsy()       //false ---- unchecked
+
+
+  //Assert checkbox 2 is checked on page
+  expect(await page.isChecked('(//input[@type="checkbox"])[2]')).toBeTruthy()           //true ---- checked
+  
+
+  //check the checkbox1
+  await page.check('input[type="checkbox"]:nth-child(1)')
+
+
+  //uncheck the checkbox2
+  await page.uncheck('(//input[@type="checkbox"])[2]')
+
+  //Assert checkbox1 is checked
+  expect(await page.isChecked('input[type="checkbox"]:nth-child(1)')).toBeTruthy()
+  
+  //Assert checkbox2 is unchecked
+  expect(await page.isChecked('(//input[@type="checkbox"])[2]')).toBeFalsy()
+
+
+
+});
+
+
+
+----------------------------------------------
+Alert Example
+---------------
+
+	Simple
+	Confirm
+	Prompt
+
+
+
+-------------------------------------------------------
+Alert Example
+---------------
+
+
+========================================================================================
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+import exp from 'constants';
+
+
+test.describe('Example to demostrate handling Alert', ()=>{
+
+
+  //hooks example in playwright
+  test.beforeEach(async ({page})=>{
+
+    await page.goto('https://the-internet.herokuapp.com/javascript_alerts');
+
+  })
+
+  test('bydefault handline simple alert by Playwright', async ({page})=>{
+
+
+    //By default, dialogs are auto-dismissed by Playwright
+
+    //using css selector
+    await page.locator('[onclick="jsAlert()"]').click()
+
+    await page.waitForTimeout(5000)
+
+
+  })
+
+  test.skip('handline simple alert - with some validation', async ({page})=>{
+
+
+    //By default, dialogs are auto-dismissed by Playwright
+
+    //using css selector
+
+
+    //dialog handler event
+    page.on('dialog', async (dialog)=>{
+
+      //validation on alert --- I am a JS Alert
+      expect(dialog.message()).toEqual('I am a JS Alert');
+      expect(dialog.message()).toContain('I am a JS Alert');
+      expect(dialog.type()).toContain('alert');
+      
+      await dialog.accept();
+
+    })
+
+    await page.locator('[onclick="jsAlert()"]').click()
+
+    await page.waitForTimeout(5000)
+
+
+  })
+
+
+  test.only('handline confirm alert', async ({page})=>{
+
+
+    page.on('dialog', async (dialog)=>{
+
+      //validation on alert --- I am a JS Confirm
+      expect(dialog.message()).toEqual('I am a JS Confirm');
+      expect(dialog.message()).toContain('I am a JS Confirm');
+      expect(dialog.type()).toContain('confirm');
+      
+      // await dialog.accept();        //close by using OK button
+      await dialog.dismiss();       //close by using Cancel button
+
+    })
+
+
+    //using css/xpath
+    // await page.locator('[onclick="jsConfirm()"]').click()
+
+    // using text locate 
+    await page.locator('text=Click for JS Confirm').click()
+
+    await page.waitForTimeout(5000)
+
+    //validation step
+
+    await expect(page.locator('p#result')).toHaveText('You clicked: Cancel')
+
+    await page.waitForTimeout(5000)
+
+  })
+
+
+
+  test('handline prompt alert', async ({page})=>{
+
+
+  })
+
+
+
+})
+
+
+
+
+
+===================================https://playwright.dev/docs/dialogs============================================================
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+import exp from 'constants';
+
+
+test.describe('Example to demostrate handling Alert', ()=>{
+
+
+  //hooks example in playwright
+  test.beforeEach(async ({page})=>{
+
+    await page.goto('https://the-internet.herokuapp.com/javascript_alerts');
+
+  })
+
+  test('bydefault handline simple alert by Playwright', async ({page})=>{
+
+
+    //By default, dialogs are auto-dismissed by Playwright
+
+    //using css selector
+    await page.locator('[onclick="jsAlert()"]').click()
+
+    await page.waitForTimeout(5000)
+
+
+  })
+
+  test('handline simple alert - with some validation', async ({page})=>{
+
+
+    //By default, dialogs are auto-dismissed by Playwright
+
+    //using css selector
+
+
+    //dialog handler event
+    page.on('dialog', async (dialog)=>{
+
+      //validation on alert --- I am a JS Alert
+      expect(dialog.message()).toEqual('I am a JS Alert');
+      expect(dialog.message()).toContain('I am a JS Alert');
+      expect(dialog.type()).toContain('alert');
+      
+      await dialog.accept();
+
+    })
+
+    await page.locator('[onclick="jsAlert()"]').click()
+
+    await page.waitForTimeout(5000)
+
+
+  })
+
+
+  test('handline confirm alert - click on Cancel button', async ({page})=>{
+
+
+    page.on('dialog', async (dialog)=>{
+
+      //validation on alert --- I am a JS Confirm
+      expect(dialog.message()).toEqual('I am a JS Confirm');
+      expect(dialog.message()).toContain('I am a JS Confirm');
+      expect(dialog.type()).toContain('confirm');
+      
+      // await dialog.accept();        //close by using OK button
+      await dialog.dismiss();       //close by using Cancel button
+
+    })
+
+
+    //using css/xpath
+    // await page.locator('[onclick="jsConfirm()"]').click()
+
+    // using text locate 
+    await page.locator('text=Click for JS Confirm').click()
+
+    await page.waitForTimeout(5000)
+
+    //validation step
+
+    await expect(page.locator('p#result')).toHaveText('You clicked: Cancel')
+
+    await page.waitForTimeout(5000)
+
+  })
+
+
+
+
+  test('handline confirm alert - click OK button', async ({page})=>{
+
+
+    page.on('dialog', async (dialog)=>{
+
+      //validation on alert --- I am a JS Confirm
+      expect(dialog.message()).toEqual('I am a JS Confirm');
+      expect(dialog.message()).toContain('I am a JS Confirm');
+      expect(dialog.type()).toContain('confirm');
+      
+      await dialog.accept();        //close by using OK button
+      // await dialog.dismiss();       //close by using Cancel button
+
+    })
+
+
+    //using css/xpath
+    // await page.locator('[onclick="jsConfirm()"]').click()
+
+    // using text locate 
+    await page.locator('text=Click for JS Confirm').click()
+
+    await page.waitForTimeout(5000)
+
+    //validation step
+
+    await expect(page.locator('p#result')).toHaveText('You clicked: Ok')
+
+    await page.waitForTimeout(5000)
+
+  })
+
+
+  test('Prompt Dailog', async ({page})=>{
+
+    var ename;
+
+    page.on('dialog', async (dialog)=>{
+
+      //validation on alert --- I am a JS prompt
+      expect(dialog.message()).toEqual('I am a JS prompt');
+      expect(dialog.message()).toContain('I am a JS prompt');
+      expect(dialog.type()).toContain('prompt');
+      
+      //enter value into prompt dialog
+      ename = "Sanjeev From StripData"
+      await dialog.accept(ename);        //close by using OK button
+      
+
+    })
+
+    //text locator
+    await page.locator('text=Click for JS Prompt').click()
+
+    await page.waitForTimeout(5000)
+
+
+    await console.log(ename);
+
+    //validation step
+
+    await expect(page.locator('p#result')).toHaveText('You entered: '+ ename)
+
+    await page.waitForTimeout(5000)
+
+
+  })
+
+
+
+})
+
+
+Alert exercise ----- http://only-testing-blog.blogspot.com/2014/01/textbox.html
+
+
+
+
+
+
+
+
+
+
+iFrameExample
+---------------
+
+https://collabedit.com/3ehpj
+===============http://only-testing-blog.blogspot.com/2014/01/textbox.html===================
+
+
+======================frame example========================================
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
+
+
+test.describe('Example to demostrate frame', ()=>{
+
+
+  test('frame example ----- single frame', async ({page})=>{
+
+    await page.goto('https://the-internet.herokuapp.com/iframe');
+
+    const textArea = await page.frameLocator('#mce_0_ifr').locator('#tinymce')
+
+    await textArea.fill('hello Sanjeev, welcome you in today session!!')
+
+    await page.waitForTimeout(5000)
+    
+    await expect(textArea).toHaveText('hello Sanjeev, welcome you in today session!!')
+
+    
+  })
+
+  
+
+
+})
+
+===========================================nested Frame=====================================================================
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
+
+
+test.describe('Example to demonstrate frame', ()=>{
+
+
+  test('frame example ----- single frame', async ({page})=>{
+
+    await page.goto('https://the-internet.herokuapp.com/iframe');
+
+    const textArea = await page.frameLocator('#mce_0_ifr').locator('#tinymce')
+
+    await textArea.fill('hello Sanjeev, welcome you in today session!!')
+
+    await page.waitForTimeout(5000)
+    
+    await expect(textArea).toHaveText('hello Sanjeev, welcome you in today session!!')
+
+    
+  })
+
+
+  test.only('frame example ----- nested frame', async ({page})=>{
+
+    await page.goto('https://the-internet.herokuapp.com/nested_frames');
+
+
+    //total frames
+    const allFrames = await page.frames()
+    console.log("Number of frames: ", allFrames.length);
+    
+
+    const topFrame = await page.frameLocator('[name="frame-top"]')
+
+
+    //nested frame ------ frame ----- inner frame
+
+    //left frame
+    const leftFrameBody = await topFrame.frameLocator('[name="frame-left"]').locator('body')
+    await expect(leftFrameBody).toHaveText('LEFT')
+
+
+    //middle frame
+    const middleFrameBody = await topFrame.frameLocator('[name="frame-middle"]').locator('body')
+    await expect(middleFrameBody).toHaveText('MIDDLE')
+
+
+    //right frame
+    const rightFrameBody = await topFrame.frameLocator('[name="frame-right"]').locator('body')
+    await expect(rightFrameBody).toHaveText('RIGHT')
+
+
+    //bottom frame
+    const bottomFrame = await page.frameLocator('[name="frame-bottom"]').locator('body')
+    await expect(bottomFrame).toHaveText('BOTTOM')
+
+  })
+
+  
+
+
+})
+
+
+=====================================ChildFrameExample===================================================================
+
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
+
+
+test.describe('Example to demonstrate frame', ()=>{
+
+
+  test('frame example ----- single frame', async ({page})=>{
+
+    await page.goto('https://the-internet.herokuapp.com/iframe');
+
+    const textArea = await page.frameLocator('#mce_0_ifr').locator('#tinymce')
+
+    await textArea.fill('hello Sanjeev, welcome you in today session!!')
+
+    await page.waitForTimeout(5000)
+    
+    await expect(textArea).toHaveText('hello Sanjeev, welcome you in today session!!')
+
+    
+  })
+
+
+  test.only('frame example ----- nested frame', async ({page})=>{
+
+    await page.goto('https://the-internet.herokuapp.com/nested_frames');
+
+
+    //total frames
+    const allFrames = await page.frames()
+    console.log("Number of frames: ", allFrames.length);
+    
+
+    // const topFrame = await page.frameLocator('[name="frame-top"]')
+    const topFrame = await page.frame({url:'https://the-internet.herokuapp.com/frame_top'})
+
+    //nested frame ------ frame ----- inner frame
+
+    const childFrames = await topFrame.childFrames();
+
+    const leftFrameUsingChild = await childFrames[0].locator('body')
+    await expect(leftFrameUsingChild).toHaveText('LEFT')
+    // const childFrames = await topFrame.childFrames();
+    // console.log(childFrames);
+
+
+    // //left frame
+    // const leftFrameBody = await topFrame.frameLocator('[name="frame-left"]').locator('body')
+    // await expect(leftFrameBody).toHaveText('LEFT')
+
+
+    // //middle frame
+    // const middleFrameBody = await topFrame.frameLocator('[name="frame-middle"]').locator('body')
+    // await expect(middleFrameBody).toHaveText('MIDDLE')
+
+
+    // //right frame
+    // const rightFrameBody = await topFrame.frameLocator('[name="frame-right"]').locator('body')
+    // await expect(rightFrameBody).toHaveText('RIGHT')
+
+
+    // //bottom frame
+    // const bottomFrame = await page.frameLocator('[name="frame-bottom"]').locator('body')
+    // await expect(bottomFrame).toHaveText('BOTTOM')
+
+  })
+
+  
+
+
+})
+
+
+
+
+
+====================================================================
+
+
+
+
+
+
+UploadFile Example
+-------------------
+
+
+==============================================file upload========================================================
+
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
+const x = require('./TestData.json')
+
+test.describe('Example to upload files', ()=>{
+
+  //reference link : https://playwright.dev/docs/input#upload-files
+
+  
+  test.only('single file upload', async ({page})=>{
+
+    // await page.goto(x.uploadFileURL); //https://the-internet.herokuapp.com/upload
+    await page.goto('https://the-internet.herokuapp.com/upload');
+    
+    await page.setInputFiles('#file-upload','C:/Users/91995/Desktop/Genpact/PlaywrightAutomationLatest/upload/macbook.png')
+
+    await page.click('#file-submit')
+
+    
+
+    //validation file upload 
+
+    await expect(page.locator('#uploaded-files')).toContainText('macbook.png')
+
+    //capture screenshot for failure ----attached to report
+    // await expect(page.locator('#uploaded-files')).toContainText('macbook.png1')
+
+    await page.waitForTimeout(5000)
+    
+  })
+  
+
+
+})
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
+const x = require('./TestData.json')
+
+test.describe('Example to upload files', ()=>{
+
+  //reference link : https://playwright.dev/docs/input#upload-files
+
+  
+  test.only('single file upload', async ({page})=>{
+
+    // await page.goto(x.uploadFileURL); //https://the-internet.herokuapp.com/upload
+    await page.goto('https://the-internet.herokuapp.com/upload');
+    
+    await page.setInputFiles('#file-upload','C:/Users/91995/Desktop/Genpact/PlaywrightAutomationLatest/upload/macbook.png')
+
+    await page.click('#file-submit')
+
+    
+
+    //validation file upload 
+
+    // await expect(page.locator('#uploaded-files')).toContainText('macbook.png')
+
+    //capture screenshot for failure ----attached to report
+    await expect(page.locator('#uploaded-files')).toContainText('macbook.png1')
+
+    await page.waitForTimeout(5000)
+    
+  })
+  
+
+
+})
+
+
+
+
+
+
+
+==============================================================
+
+
+
+
+
+
+
+
+ScreenShot
+-----------
+
+
+// const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
+
+test.describe('Example to Capture Screenshot', ()=>{
+
+  //reference link : https://playwright.dev/docs/screenshots
+
+  test.skip('page screenshot', async ({page})=>{
+
+    await page.goto('https://demo.opencart.com/');
+
+    await page.waitForTimeout(5000)
+
+    await page.screenshot({path: 'tests/screenshotExample/' + Date.now()+'_HomePage.png'})
+
+    
+  })
+
+
+  test.skip('full page screenshot', async ({page})=>{
+
+    //Full page screenshot is a screenshot of a full scrollable page, 
+    //as if you had a very tall screen and the page could fit it entirely
+
+    await page.goto('https://demo.opencart.com/');
+    await page.screenshot({path: 'tests/screenshotExample/' + Date.now()+'_FullPage.png', fullPage: true})
+
+
+
+    await page.goto('https://demo.opencart.com/');
+
+
+    
+  })
+
+
+  test.only('element screenshot', async ({page})=>{
+
+    await page.goto('https://demo.opencart.com/');
+
+
+    await page.locator('//*[@id="content"]/div[2]/div[1]').screenshot({path: 'tests/screenshotExample/' + Date.now()+'_Mackbook.png'})
+    await page.locator('//*[@id="content"]/div[2]/div[2]').screenshot({path: 'tests/screenshotExample/' + Date.now()+'_Iphone.png'})
+
+
+    
+  })
+  
+
+
+})
+
+
+
+
+
+
+
+Capture VideoClip
+-----------------
+
+
+
+
+
+CheckIn Code to GitHUB
+-----------------------
+
+
+
+Integrate test with Jenkins
+----------------------------
+
+
+

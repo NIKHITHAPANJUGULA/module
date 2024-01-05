@@ -1,0 +1,9 @@
+{
+
+    "uploadFileURL" : "https://the-internet.herokuapp.com/upload",
+    "alertURL" : "https://the-internet.herokuapp.com/upload",
+    "iframeURL" : "https://the-internet.herokuapp.com/upload"
+
+
+
+}
